@@ -52,7 +52,7 @@ To run the server, you need to provide the necessary game data:
     ```
 4.  **Attach a shell to the server** to run commands (like `status` or `map_rotate`):
     ```bash
-    docker container attach call-of-duty-2-docker-server_cod2_server_1
+    docker container attach call-of-duty-2-docker-server_cod2_server-1
     ```
     * **Example Commands:**
         ```
