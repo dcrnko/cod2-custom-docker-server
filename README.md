@@ -68,13 +68,19 @@ To run the server, you need to provide the necessary game data:
 ---
 ### Conencting to the server:
 1.  **Launch the COD2 MP** in the menu press the console button and type:
-    ```bash
+   ```bash
    /password <the_requested_passowrd> 
-    ```
+   ```
 2. **Open the console again** and type:
-    ```bash
+   ```bash
    /connect <private/public_ip_of_the_docker_hoste:28960>
-    ```
+   ```
+3. **Login with rcon** :
+   ```bash
+   /rcon login <requested_rcon_password>
+   ```
+4.  **If you need more rcon commands visit** : [here](https://github.com/dcrnko/cod2-rcon-commands)
+5.  **Have Fun**
 ---
 ## Thanks
 
