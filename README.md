@@ -66,7 +66,16 @@ To run the server, you need to provide the necessary game data:
     ```
 
 ---
-
+### Conencting to the server:
+1.  **Launch the COD2 MP** in the menu press the console button and type:
+    ```bash
+   /password <the_requested_passowrd> 
+    ```
+2. **Open the console again** and type:
+    ```bash
+   /connect <private/public_ip_of_the_docker_hoste:28960>
+    ```
+---
 ## Thanks
 
 A huge thank you to **bgauduch** for creating the foundational work for this project!
