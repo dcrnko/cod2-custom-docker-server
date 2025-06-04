@@ -73,7 +73,7 @@ To run the server, you need to provide the necessary game data:
    ```
 2. **Open the console again** and type:
    ```bash
-   /connect <private/public_ip_of_the_docker_hoste:28960>
+   /connect <private/public_ip_of_the_docker_host:28960>
    ```
 3. **Login with rcon** :
    ```bash
